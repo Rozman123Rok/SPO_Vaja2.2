@@ -1,5 +1,6 @@
 # SPO_Vaja2.2
 Vaja pri predmetu SPO
+
 Navodila:
 Napišite aplikacijo v programskem jeziku C, ki v polje tipa int16 velikosti 6 zlogov shrani naslednje podatke:
 
